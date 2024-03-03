@@ -1,0 +1,43 @@
+.container-1:hover {
+    background-color: #000;
+    color: white;
+    transition-duration: .3s;
+  }
+ 
+  .container-2:hover {
+    background-color: #00acee;
+    color: white;
+    transition-duration: .3s;
+  }
+ 
+  .container-3:hover {
+    background-color: #0077b5;
+    color: white;
+    transition-duration: .3s;
+  }
+ 
+  .container-4:hover {
+    background-color: #FF0004;
+    color: white;
+    transition-duration: .3s;
+  }
+
+  .container-1{
+    background-color: white;
+    color: black;
+  }
+
+  .container-2{
+    color: #00acee;
+    background-color: white;
+  }
+
+  .container-3{
+    background-color: white;
+    color: #0077b5;
+  }
+
+  .container-4{
+    background-color: white;
+    color: #FF0004;
+  }
